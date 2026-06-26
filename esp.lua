@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thieuhoanglam2013-glitch/animegai/refs/heads/main/esp.lua", true))()
+https://gist.githubusercontent.com/thieuhoanglam2013-glitch/64328ee396958bbf273504036836960d/raw/e3125f09daa933515363dd1e2c3bc1adba308b22/espvippro.lua
